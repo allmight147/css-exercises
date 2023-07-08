@@ -1,0 +1,18 @@
+.class {
+    background-color: rgb(255, 192, 213);
+    font-size: 18px;
+    font-family: verdana, "Dejavu sans" ,sans-serif;
+}
+.cooler-class {
+    font-size: 24px;
+    background-color: rgb(255, 192, 213);
+}
+#odd1 {
+    color: blue;
+    font-size: 36px;
+}
+#odd2 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
